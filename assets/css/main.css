@@ -1,6 +1,6 @@
 .header{
     width:100%;
-    background-color: rgb(241, 190, 190);
+    background-color: rgb(252, 222, 222);
 }
 
 .navbar{
@@ -29,3 +29,4 @@
     font-size: 1.4rem;
     color: var(--text-color);
 }
+
